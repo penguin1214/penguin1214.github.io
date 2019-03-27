@@ -1,0 +1,59 @@
+title: Jinglei Yang
+description: Jinglei Yang's webpage
+sourcecode: "https://github.com/penguin1214/penguin1214.github.io"
+
+permalink: blog/:year/:month/:day/:title
+exclude: ["Makefile", "README.md"]
+
+url: ""                         # the base hostname & protocol for your site
+baseurl: ""                     # the subpath of your site, e.g. /blog
+# url: "localhost"              # for local testing
+# baseurl: ""
+
+author:
+    name: Jinglei Yang
+    facebook: 
+    scholar: 
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
+# Settings for analytics helper
+# Set 'provider' to the analytics provider you want to use.
+# Set 'provider' to false to turn analytics off globally.
+#
+analytics:
+    provider: false
+    statcounter:
+        sc_project  : 
+        sc_security : 
+        sc_invisible: 
+        sc_text     : 
+    google:
+        tracking_id: ''
+    getclicky:
+      site_id:
+    mixpanel:
+        token: ''
+    piwik:
+        baseURL: '' # Piwik installation address (without protocol)
+        idsite: ''  # the id of the site on Piwik
+
+# Settings for comments helper
+# Set 'provider' to the comment provider you want to use.
+# Set 'provider' to false to turn commenting off globally.
+#
+comments:
+    provider:
+    disqus:
+      short_name:
+    livefyre:
+      site_id:
+    intensedebate:
+      account:
+    facebook:
+      appid:
+      num_posts: 5
+      width: 580
+      colorscheme: light

@@ -1,0 +1,3 @@
+I am a master student in Department of Electrical & Computer Engineering at University of California, Santa Barbara and working closely with [Prof. Lingqi Yan] on real-time rendering. Before that I received my B.Eng degree in Electronics and Information Engineering from Sichuan University, China, in Jun. 2018, where I worked with Prof. Wei Wu on image super-resolution.
+
+My research interest includes physically-based rendering (both real-time and offline) as well as overlapping areas of computer vision and computer graphics.

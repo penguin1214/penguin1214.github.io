@@ -1,0 +1,57 @@
+name: Jinglei Yang
+affiliation: UCSB
+address: CA, USA
+email: jingleiyang@ucsb.edu
+web: http://penguin1214.github.io
+
+research_interests:
+    - Real-time ray tracing.
+    - Offline physically based rendering.
+    - Deep learning based low-level vision.
+
+education:
+    - date:         2018-2020 (expected)
+      title:        M.S. in Electrical and Computer Engineering
+      affiliation:  University of California, Santa Barbara
+      location:     Santa Barbara, CA, USA
+      mentor:       
+      thesis:       
+    - date:         2014-2018
+      title:        B.Eng in Electrioncs and Information Engineering
+      affiliation:  Sichuan University
+      location:     Sichuan, China
+      mentor:       Prof. Wei Wu
+      thesis:       Single image super-resolution using Generative Adversarial Networks (GANs).
+
+teaching:
+    - date:   Fall 2016
+      title:  Digital Circuits
+      school: Sichuan University
+
+supervised_theses:
+    - date:   Spring 2017
+      author: Andrin Jenal
+      title:  RNN-based generative model for learning and synthesis of tree skeletons
+      school: Master's thesis, ETH Zurich
+
+technical_skills:
+    - C++
+    - Python
+    - Matlab
+    - OpenGL
+    - GLSL
+    - CUDA
+
+publications:
+    - title:  Feedback Network for Image Super-Resolution 
+      author: Zhen Li, Jinglei Yang, Zheng Liu, Xiaomin Yang, Gwanggil Jeon, Wei Wu 
+      year:    2019
+      journal: IEEE Conference on Computer Vision and Pattern Recognition
+      note:    CVPR
+      url:     https://arxiv.org/abs/1903.09814
+    - title:   A Fast Machine Learning-based Mask Printability Predictor for OPC Acceleration
+      author:  Bentian Jiang, Hang Zhang, Jinglei Yang, Evangeline F. Y. Young
+      journal: IEEE/ACM Asian and South Pacific Design Automation Conference
+      note:    ASPDAC
+      year:    2019
+      url:     https://dl.acm.org/citation.cfm?id=3287682
