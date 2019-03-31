@@ -60,6 +60,6 @@ My research interest includes physically-based rendering (both real-time and off
 
 ## Teaching/Grading
 
-- Grader Spring 2019 CS165B Machine Learning
+- **Grader** Spring 2019 CS165B Machine Learning at UCSB
 
-- TA Fall 2016 Digital Circuits
+- **TA** Fall 2016 Digital Circuits at SCU
